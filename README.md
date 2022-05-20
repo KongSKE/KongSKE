@@ -2,7 +2,9 @@
 
 Hi, I'm Varit Assavavisidchai, a software engineer from Thailand.
 
-<sub>:briefcase: : I'm currently working at [Orange Cap Innovative](https://www.orangecapinnovative.com/)</sub>
+- <sub>:briefcase: : I'm currently working at [Orange Cap Innovative](https://www.orangecapinnovative.com/)</sub>
+
+[![KongSKE's GitHub stats](https://github-readme-stats.vercel.app/api?username=KongSKE)](https://github.com/KongSKE/github-readme-stats)
 
 <!--
 **KongSKE/KongSKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
