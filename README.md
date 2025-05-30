@@ -24,7 +24,7 @@
 
 Hi, I'm Varit Assavavisidchai, a software engineer from Thailand.
 
-- :briefcase: : I'm currently working at [Orange Cap Innovative](https://www.orangecapinnovative.com/)
+- :briefcase: : I'm currently working at [NocNoc](https://www.orangecapinnovative.com/](https://nocnoc.com/)
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KongSKE&theme=darkhub&column=6&row=1)
